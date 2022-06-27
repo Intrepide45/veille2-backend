@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Alan Cooper l‘l’inventeur de visual Basic
 
-You can use the [editor on GitHub](https://github.com/Intrepide45/veille2-backend/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Alan Cooper
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Alan Cooper (né le 3 juin 1952) est un concepteur et programmeur américain de logiciels . Largement reconnu comme le « père du Visual Basic », [1] Cooper est également connu pour ses livres About Face : The Essentials of Interaction Design et The Inmates Are Running the Asylum : Why High-Tech Products Drive Us Crazy and How to Restore the Sanity . En tant que fondateur de Cooper, un leader du conseil en conception d'interaction, il a créé la méthodologie de conception dirigée par les objectifs et a été le pionnier de l'utilisation de personas comme outils de conception d'interaction pratiques pour créer des produits de haute technologie. Le 28 avril 2017, Alan a été intronisé dans le Musée d'histoire de l'informatiqueHall of Fellows "pour son invention de l'environnement de développement visuel dans Visual BASIC et pour son travail de pionnier dans l'établissement du domaine de la conception d'interaction et de ses outils fondamentaux." 
 
-### Markdown
+Biographie
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Jeunesse
 
-```markdown
-Syntax highlighted code block
+Alan Cooper a grandi dans le comté de Marin , en Californie , aux États-Unis, où il a étudié l' architecture au College of Marin . Il a appris la programmation et a accepté des emplois de programmation à contrat pour payer ses études collégiales. [5]
+En 1975, peu de temps après avoir quitté l'université et lorsque les premiers micro-ordinateurs sont devenus disponibles, Alan Cooper a fondé sa première entreprise, Structured Systems Group (SSG), à Oakland, en Californie , qui est devenue l'une des premières sociétés de logiciels de micro-ordinateurs. [6] Le logiciel de comptabilité de SSG, General Ledger, a été vendu par le biais d'annonces dans des magazines populaires tels que Byte et Interface Age . Ce logiciel était, selon le récit historique de Fire in the Valley (de Paul Freiberger et Michael Swaine ), « probablement le premier logiciel d'entreprise sérieux pour les micro-ordinateurs. [7] " C'était à la fois le début de la carrière de Cooper en tant qu'auteur de logiciels et le début de l'entreprise de logiciels pour micro-ordinateurs. En fin de compte, Cooper a développé une douzaine de produits originaux chez Structured Systems Group [8] avant de vendre sa participation dans l'entreprise en 1980.
+Au début, Cooper a travaillé avec Gordon Eubanks pour développer, déboguer, documenter et publier son langage de programmation d'entreprise, CBASIC , un des premiers concurrents du Microsoft BASIC de Bill Gates et Paul Allen . [9] Eubanks a écrit le précurseur de CBASIC, BASIC-E en tant que projet étudiant alors qu'il était à la Naval Postgraduate School de Monterey, en Californie, avec le professeur Gary Kildall . [10] Quand Eubanks a quitté la Marine, il a rejoint la société de système d'exploitation réussie de Kildall, Digital Research, Inc. , à Monterey. Peu de temps après, Eubanks et Kildall ont invité Cooper à les rejoindre à Digital Research en tant que l'un des quatre fondateurs de leur département de recherche et développement. [11] Après deux ans à DRI, Cooper est parti pour développer un logiciel d'application de bureau par lui-même.
 
-# Header 1
-## Header 2
-### Header 3
+Virtual Basic c’est quoi ?
 
-- Bulleted
-- List
+Au cours des années 1980, Alan Cooper a créé plusieurs applications commerciales, notamment Microphone II pour Windows et un premier programme de gestion de projet à chemin critique appelé SuperProject . Cooper a vendu SuperProject à Computer Associates en 1984, où il a connu du succès sur le marché interentreprises. [12]
+Visual Basic
+En 1988, Alan Cooper a créé un langage de programmation visuel (nom de code « Ruby ») qui permettait aux utilisateurs de Windows de créer des shells de type « Finder ». Il l'a appelé « un ensemble de construction de coques ». [13] Après avoir fait la démonstration de Ruby à Bill Gates , Microsoft l'a acheté. À l'époque, Gates a déclaré que l'innovation aurait un « effet profond » [14] sur l'ensemble de sa gamme de produits. Microsoft a initialement décidé de ne pas publier le produit en tant que shell pour les utilisateurs, mais plutôt de le transformer en un outil de développement professionnel pour leur langage de programmation QuickBASIC appelé Visual Basic , qui était largement utilisé pour le développement d'applications commerciales pour les ordinateurs Windows .
+L'installation de contrôle à installation dynamique de Cooper, devenue célèbre sous le nom d' interface « VBX », était un composant bien connu de « Ruby ». Cette innovation a permis à tout développeur tiers d'écrire un widget (contrôle) en tant que DLL, de le placer dans le répertoire Visual Basic, et Visual Basic le trouverait, communiquerait avec lui et le présenterait à l'utilisateur comme une partie transparente du programme. . Le widget apparaîtrait dans la palette d'outils et les menus appropriés, et les utilisateurs pourraient l'intégrer dans leurs applications Visual Basic. L'invention de l'interface « VBX » a créé un tout nouveau marché pour les fournisseurs de ces « contrôles installables dynamiquement ». Grâce au travail de Cooper, de nombreuses nouvelles sociétés de logiciels ont été en mesure de commercialiser des logiciels Windows dans les années 1990.
+Le premier livre jamais écrit sur Visual Basic, The Waite Group's Visual Basic How-To par Mitchell Waite , est dédié à Alan Cooper. Dans sa dédicace, l'auteur appelle Cooper le "père de Visual Basic". Ce surnom a souvent servi de CV en une ligne à Cooper. [15]
+En 1994, Bill Gates a remis à Cooper le premier Windows Pioneer Award pour ses contributions à l'industrie du logiciel. Au cours de la présentation, Gates a particulièrement noté le travail innovant de Cooper en créant l'interface VBX. [16]
+En 1998, le SVForum a honoré Cooper avec son Visionary Award. [17]
+Conception d'interaction et expérience utilisateur
+Au début de sa carrière, Cooper a commencé à considérer de manière critique l'approche acceptée de la construction de logiciels. Comme il le rapporte dans son premier livre, il pensait qu'il manquait quelque chose d'important : les auteurs de logiciels ne demandaient pas : « Comment les utilisateurs interagissent-ils avec cela ? » Les premières idées de Cooper l'ont conduit à créer un processus de conception, axé non sur ce qui pouvait être codé, mais sur ce qui pouvait être conçu pour répondre aux besoins des utilisateurs. [18]
+En 1992, en réponse à une industrie du logiciel qui se consolidait rapidement, Cooper a commencé à consulter d'autres sociétés, les aidant à concevoir leurs applications pour qu'elles soient plus conviviales. En quelques années, Alan Cooper avait commencé à articuler certains de ses principes de conception de base. Avec ses clients, il a défendu une méthodologie de conception qui donne la priorité aux besoins des utilisateurs. Cooper a interrogé les utilisateurs des produits de ses clients et a découvert les points communs qui ont rendu ces personnes heureuses. Né de cette pratique était l'utilisation de personas comme outils de conception. Cooper a prêché sa vision dans deux livres. [19] Ses idées ont contribué à stimuler le mouvement de l' expérience utilisateur et à définir le métier qui serait appelé « conception d'interaction ».
+Le premier livre à succès de Cooper, About Face: The Essentials of User Interface Design, a été publié pour la première fois en 1995. Cooper y présente un ensemble complet de principes de conception pratiques, essentiellement une taxonomie pour la conception de logiciels. À la deuxième édition, au fur et à mesure que l'industrie et la profession évoluaient, la « conception d'interface » était devenue la « conception d'interaction » plus précise. Le message de base de ce livre s'adressait aux programmeurs : faites ce qu'il faut. Pensez à vos utilisateurs. [20] Le livre en est maintenant à sa quatrième édition, intitulée About Face: The Essentials of Interaction Design , et est considéré comme un texte de base pour le concepteur d'interactions professionnel. Cooper a introduit les idées de posture d'application logicielle telle qu'une "posture souveraine" où une application utilise la majeure partie de l'espace et attend l'entrée de l'utilisateur ou une "posture transitoire" pour un logiciel qui ne s'exécute pas ou ne s'engage pas avec l'utilisateur tout le temps. Avec des sites Web, il discute des postures « informationnelles » et « transactionnelles » dans About Face .
 
-1. Numbered
-2. List
+Dans son livre de 1998, The Inmates Are Running the Asylum: Why High-Tech Products Drive Us Crazy and How to Restore the Sanity , Alan Cooper a décrit sa méthodologie, appelée Goal-Directed design, basée sur le concept que le logiciel devrait accélérer l'utilisateur vers son objectif ultime plutôt que de le piéger dans des détails informatiques. [21] Dans le livre, Cooper a introduit un nouveau concept qu'il a appelé personas en tant qu'outil de conception d'interaction pratique. Sur la base d'une brève discussion dans le livre, les personas ont rapidement gagné en popularité dans l'industrie du logiciel [22] en raison de leur puissance et de leur efficacité inhabituelles. Aujourd'hui, les concepts de stratégie de conception d'interaction et d'utilisation de personas ont été largement adoptés dans l'industrie. Cooper adresse le message de son deuxième livre à l'homme d'affaires : connaissez les objectifs de vos utilisateurs et comment les satisfaire. Vous avez besoin d'un design d'interaction pour bien faire les choses. Cooper préconise l'intégration du design dans les pratiques commerciales afin de répondre aux besoins des clients et de créer de meilleurs produits plus rapidement en le faisant correctement du premier coup.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Intrepide45/veille2-backend/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Alan Cooper se concentre actuellement sur la manière d'intégrer efficacement les avancées de la conception d'interaction avec l'efficacité des méthodes de développement logiciel agiles . Cooper parle et blogue régulièrement à ce sujet sur le site Web de son entreprise.
+Tonnelier
+Cooper est une société de conseil en conception et stratégie d' expérience utilisateur basée à San Francisco et dotée d'un bureau à New York. Cooper est crédité [ par qui ? ] en inventant plusieurs concepts de design largement utilisés, notamment le design axé sur les objectifs, les personas et le design par paire. Elle a été fondée par Sue Cooper et Alan Cooper en 1992 à Menlo Park, en Californie , sous le nom de « Cooper Software », puis a changé son nom en « Cooper Interaction Design » en 1997. Cooper a été le premier cabinet de conseil dédié uniquement à la conception d'interaction [ selon qui ? ] . Ses clients d'origine étaient principalement des sociétés de logiciels et de matériel informatique de la Silicon Valley. [23] [24]
+L'entreprise utilise une méthodologie centrée sur l'humain appelée « conception axée sur les objectifs » qui met l'accent sur l'importance de comprendre l'état final souhaité par l'utilisateur et ses motivations pour y parvenir. 
+En 2002, Cooper a commencé à offrir des cours de formation au public sur des sujets tels que la conception d'interaction, la conception de services, la conception visuelle et le leadership en matière de conception. [27] [28] Cooper a été président de Cooper (anciennement Cooper Interaction Design), un cabinet de conseil en expérience utilisateur et en conception d'interaction à San Francisco, en Californie, depuis sa fondation en 1992. Cooper aide ses clients à relever les défis de la conception d'interaction et propose des formations des cours sur des sujets de conception et de développement de logiciels, y compris leur conception orientée vers les objectifs (sous la marque CooperU).
+En 2017, Cooper a rejoint Designit, une branche de conception stratégique de Wipro Digital. Cooper Professional Education a continué d'exister en tant que division d'enseignement et d'apprentissage de Designit jusqu'à la fermeture de ses portes le 29 mai 2020. [29]
+Bibliographie
+•	About Face: Les bases de la conception d'interface utilisateur ( ISBN  1-56884-322-4 ), 1995
+•	Les détenus dirigent l'asile : pourquoi les produits de haute technologie nous rendent fous et comment restaurer la santé mentale ( ISBN  0-672-31649-8 ), 1998
+•	À propos de Face 2.0 : les bases du design d'interaction (avec Robert Reimann) ( ISBN  0-7645-2641-3 ), 2003
+•	About Face 3: The Essentials of Interaction Design (avec Robert Reimann et David Cronin) ( ISBN  0-4700-8411-1 ), 2007
+•	About Face: The Essentials of Interaction Design, 4e édition (avec Robert Reimann, David Cronin et Christopher Noessel) ( ISBN  978-1118766576 ), 2014
